@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url='https://bienmanger.mychariow.shop/prd_ai6ja6oi'">
-    <title>Redirection en cours</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrition Facile - Le Kit Complet</title>
+    <meta http-equiv="refresh" content="0;url=https://chariow.makeup/l2lr348oyv">
+    <script type="text/javascript">
+        window.location.replace("https://chariow.makeup/l2lr348oyv");
+    </script>
 </head>
 <body>
-    <p>Redirection vers le Plan Famille Malin...</p>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <p>Redirection en cours vers le kit complet... Si la page ne s'ouvre pas, <a href="https://chariow.makeup/l2lr348oyv">cliquez ici</a>.</p>
 </body>
 </html>
